@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    position: relative;
+}
+.header{
+    text-align: center;
+    line-height: 1.5;
+}
+.logodiv{
+    text-align: left;
+}
+.col-6{
+
+    /* width: 100%; */
+}
+.link-secondary{
+    text-align: left;
+}
+.main-heading{
+    color: rgb(104, 154, 154);
+    font-weight: bold;
+    font-size: 30px;
+}
+.folio{
+    font-family: 'Lobster', cursive;
+
+}
+.second-heading{
+    font-family: 'Seaweed Script', cursive;
+}
+.buttons{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.signup{
+    position: absolute;
+    margin-left: -323px;
+   
+}
+.login{
+    margin-right: -300px;
+}
+.graph{
+    margin-top: 30px;
+}
+.graph-img{
+    width: 200px;
+    height: 200px;
+}
+.adv{
+    text-align: right;
+    width: 200px;
+    height: 200px;
+}
+
+.discord{
+    position: absolute;
+  
+    margin-top: 150px;
+    margin-left: 150px;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: 'Libre Baskerville', serif;
+   
+}
+.mmt{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 150px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.btn-dis{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 100px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.adv-img{
+    margin-top: 150px;
+    width: 100%;
+}
